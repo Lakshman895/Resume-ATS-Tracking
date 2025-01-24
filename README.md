@@ -1,7 +1,7 @@
 
 # ATS Tracking System for Resumes
 
-<img src="Image/image.png" alt="Overview of ATS Tracking Flow" title="Overview of ATS Tracking Flow" width="600">
+<img src="image/image.png" alt="Overview of ATS Tracking Flow" title="Overview of ATS Tracking Flow" width="600">
 
 ## Project Overview
 
